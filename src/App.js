@@ -10,6 +10,7 @@ function App() {
         obcaecati rem est porro molestiae aut ipsum quos dolorem nulla ullam
         odio!
       </p>
+      <h2>We are up</h2>
     </div>
   );
 }
