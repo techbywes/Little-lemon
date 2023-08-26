@@ -1,0 +1,16 @@
+main {
+  margin-top: 8rem;
+  padding: 0 7rem;
+  margin-bottom: 4rem;
+}
+
+.specials_text_btn_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.specials_text_btn_div > h2 {
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}

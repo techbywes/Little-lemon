@@ -7,17 +7,15 @@ function Hero() {
     <>
       <div className="hero-container">
         <div className="left_div">
-          <h1>Little Lemon</h1>
+          <h1>LITTLE LEMON</h1>
           <p>Chicago</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde,
-            provident ipsum accusamus ducimus minima reiciendis? Doloremque
-            veritatis velit neque eligendi dignissimos.
+            We are fanily owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.
           </p>
           <button>Reserve A Table</button>
         </div>
         <div>
-          <img src={Hero_image} alt="Hero-image" />
+          <img className="hero_img" src={Hero_image} alt="Hero-image" />
         </div>
       </div>
     </>
