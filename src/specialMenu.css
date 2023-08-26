@@ -1,3 +1,10 @@
+.main_general_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .general_container {
   margin-top: 4rem;
 }

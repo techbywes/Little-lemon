@@ -5,6 +5,7 @@ main {
 }
 
 .specials_text_btn_div {
+    flex-wrap: wrap;
   display: flex;
   justify-content: space-between;
   align-items: center;
