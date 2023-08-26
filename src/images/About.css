@@ -1,0 +1,45 @@
+.general_container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10rem;
+  flex-wrap: wrap;
+}
+
+.about_image___ {
+  width: 16rem;
+  border-radius: 1rem;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.about_descrip_texxt_ {
+  color: #333333;
+  letter-spacing: 0;
+}
+
+.about_country {
+  color: #333333;
+  font-weight: 600;
+}
+
+.left_text_div {
+  width: 30rem;
+}
+
+.right_images_div {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.image_2 {
+  margin-bottom: 6rem;
+}
+
+.image_1{
+    margin-top: 4rem;
+}
+
+.about_title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
