@@ -2,7 +2,7 @@ import React from "react";
 import "./main.css";
 import Menu from "./specialMenu";
 import Testimonial from "./Testimonial";
-import About from "./images/About";
+import About from "./About";
 
 function Main() {
   return (

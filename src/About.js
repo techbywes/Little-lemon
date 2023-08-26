@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
-import About_pic1 from "../images/About_pic1.png";
-import About_pic2 from "../images/About_pic2.png";
+import About_pic1 from "./images/About_pic1.png";
+import About_pic2 from "./images/About_pic2.png";
 
 function About() {
   return (

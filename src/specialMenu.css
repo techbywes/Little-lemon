@@ -15,6 +15,12 @@
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.6s ease-in-out;
+  cursor: pointer;
+}
+
+.image_text_price_div:hover{
+  transform: scale(1.1);
 }
 
 .image_text_price_div > .menu_img {
