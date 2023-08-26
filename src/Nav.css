@@ -2,7 +2,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(2, 2, 2, 0.9);
+  background-color:#EDEFEE;
   padding: 1rem 7rem;
 }
 
@@ -17,7 +17,7 @@ nav > div > img {
 nav > ul > li > a {
   text-decoration: none;
   font-size: 1.3rem;
-  color: whitesmoke;
+  color: #333333;
 
   transition: all 0.6s ease-in-out;
 }
