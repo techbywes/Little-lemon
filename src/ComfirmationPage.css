@@ -1,0 +1,44 @@
+.general_container{
+    display: block;
+    margin-bottom: 2rem;
+    width: 25rem;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 6rem;
+}
+
+.general_container > h2{
+    color: #333333;
+    margin-bottom: 2rem;
+}
+
+.general_container > p{
+    color: #333333;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.btns_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    margin-bottom: 4rem;
+}
+
+
+
+.close_btn{
+    background-color: #495E57;
+    color: whitesmoke;
+}
+
+.success_icon_div{
+   display: flex;
+   justify-content: center;
+}
+
+.success_icon{
+    width: 4rem;
+    margin-bottom: 2rem;
+}

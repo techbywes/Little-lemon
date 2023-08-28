@@ -1,18 +1,27 @@
 import React from "react";
 import logo from "./images/logo.png";
 import "./Nav.css";
+import { Link } from "react-router-dom";
 
 function Nav() {
   return (
     <>
       <nav>
-        <div>
-          <img className="logo" src={logo} alt="logo" />
-        </div>
+        <Link to="/Home">
+          <div>
+            <img className="logo" src={logo} alt="logo" />
+          </div>
+        </Link>
+
         <ul>
-          <li>
-            <a className="active" href="#">Home</a>
-          </li>
+          <Link to="/Home">
+            <li className="go_home">
+              <a className="active " href="#">
+                Home
+              </a>
+            </li>
+          </Link>
+
           <li>
             <a href="#">About</a>
           </li>

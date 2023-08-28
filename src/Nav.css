@@ -10,7 +10,14 @@ nav {
   color: #f4ce14;
 }
 
-nav > div > img {
+
+
+Link > a{
+  list-style: none;
+  text-decoration: none;
+}
+
+.logo{
   width: 12rem;
 }
 
