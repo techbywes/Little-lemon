@@ -1,4 +1,4 @@
-.general_container{
+.comfirm_general_container{
     display: block;
     margin-bottom: 2rem;
     width: 25rem;
@@ -7,12 +7,12 @@
     margin-top: 6rem;
 }
 
-.general_container > h2{
+.comfirm_general_container > h2{
     color: #333333;
     margin-bottom: 2rem;
 }
 
-.general_container > p{
+.comfirm_general_container > p{
     color: #333333;
     margin-bottom: 2rem;
     text-align: center;

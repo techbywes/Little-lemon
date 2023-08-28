@@ -9,7 +9,7 @@ function ComfirmationPage() {
     <>
       <Nav />
       <Hero />
-      <div className="general_container">
+      <div className="comfirm_general_container">
         <div className="success_icon_div">
           <img className="success_icon" src={checked} alt="success icon" />
         </div>
